@@ -43,11 +43,6 @@ public static ArrayList<String> list = new ArrayList(25);
 				try {
 				int i = scan.nextInt();
 				j = i;
-				int c = 10000;
-				while (c != 0) {
-					System.out.println("\b\b\b\b\b");
-					c--;
-				}
 				System.out.println("Success!");
 				}
 				
