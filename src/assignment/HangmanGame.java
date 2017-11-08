@@ -56,6 +56,8 @@ public static ArrayList<String> list = new ArrayList(25);
 				String theWord = list.get(j);
 				chosen = theWord;
 				}
+				
+				rejierytvuiretvuier tvoiuer
 				System.out.println(chosen);
 	}
 
